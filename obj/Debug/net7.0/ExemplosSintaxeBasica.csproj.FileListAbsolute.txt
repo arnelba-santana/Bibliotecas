@@ -1,0 +1,15 @@
+C:\Users\ARNELBA\Desktop\SENAI\Codificação Back End\C-SHARP\ExemplosSintaxeBasica\bin\Debug\net7.0\ExemplosSintaxeBasica.exe
+C:\Users\ARNELBA\Desktop\SENAI\Codificação Back End\C-SHARP\ExemplosSintaxeBasica\bin\Debug\net7.0\ExemplosSintaxeBasica.deps.json
+C:\Users\ARNELBA\Desktop\SENAI\Codificação Back End\C-SHARP\ExemplosSintaxeBasica\bin\Debug\net7.0\ExemplosSintaxeBasica.runtimeconfig.json
+C:\Users\ARNELBA\Desktop\SENAI\Codificação Back End\C-SHARP\ExemplosSintaxeBasica\bin\Debug\net7.0\ExemplosSintaxeBasica.dll
+C:\Users\ARNELBA\Desktop\SENAI\Codificação Back End\C-SHARP\ExemplosSintaxeBasica\bin\Debug\net7.0\ExemplosSintaxeBasica.pdb
+C:\Users\ARNELBA\Desktop\SENAI\Codificação Back End\C-SHARP\ExemplosSintaxeBasica\obj\Debug\net7.0\ExemplosSintaxeBasica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARNELBA\Desktop\SENAI\Codificação Back End\C-SHARP\ExemplosSintaxeBasica\obj\Debug\net7.0\ExemplosSintaxeBasica.AssemblyInfoInputs.cache
+C:\Users\ARNELBA\Desktop\SENAI\Codificação Back End\C-SHARP\ExemplosSintaxeBasica\obj\Debug\net7.0\ExemplosSintaxeBasica.AssemblyInfo.cs
+C:\Users\ARNELBA\Desktop\SENAI\Codificação Back End\C-SHARP\ExemplosSintaxeBasica\obj\Debug\net7.0\ExemplosSintaxeBasica.csproj.CoreCompileInputs.cache
+C:\Users\ARNELBA\Desktop\SENAI\Codificação Back End\C-SHARP\ExemplosSintaxeBasica\obj\Debug\net7.0\ExemplosSintaxeBasica.sourcelink.json
+C:\Users\ARNELBA\Desktop\SENAI\Codificação Back End\C-SHARP\ExemplosSintaxeBasica\obj\Debug\net7.0\ExemplosSintaxeBasica.dll
+C:\Users\ARNELBA\Desktop\SENAI\Codificação Back End\C-SHARP\ExemplosSintaxeBasica\obj\Debug\net7.0\refint\ExemplosSintaxeBasica.dll
+C:\Users\ARNELBA\Desktop\SENAI\Codificação Back End\C-SHARP\ExemplosSintaxeBasica\obj\Debug\net7.0\ExemplosSintaxeBasica.pdb
+C:\Users\ARNELBA\Desktop\SENAI\Codificação Back End\C-SHARP\ExemplosSintaxeBasica\obj\Debug\net7.0\ExemplosSintaxeBasica.genruntimeconfig.cache
+C:\Users\ARNELBA\Desktop\SENAI\Codificação Back End\C-SHARP\ExemplosSintaxeBasica\obj\Debug\net7.0\ref\ExemplosSintaxeBasica.dll

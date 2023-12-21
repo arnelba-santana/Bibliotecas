@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1cJyktrPCj+WevvVK1/fG5OK56WMaquLpygGy0XWALnBCc5UfwA/cLdtPkTFFDm6Tl6z2dSG3pk59ukC/lZVDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ARNELBA\\Desktop\\SENAI\\Codificação Back End\\C-SHARP\\ExemplosSintaxeBasica\\ExemplosSintaxeBasica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ARNELBA\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\ARNELBA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\ARNELBA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\ARNELBA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
